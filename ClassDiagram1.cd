@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MyNotes.Authors">
+    <Position X="4" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Authors.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyNotes.Classifications">
+    <Position X="4" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classifications.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyNotes.DataBase">
+    <Position X="4" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAAAAEAAAAAAACAAAAAAAgAAAAI=</HashCode>
+      <FileName>DataBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyNotes.Element">
+    <Position X="2.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYgACAAAAAACCAAAAgAAAAAAEEAAABBAAIAQAAAAAA=</HashCode>
+      <FileName>Element.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyNotes.Form1">
+    <Position X="7.5" Y="0.75" Width="1.75" />
+    <Members>
+      <Field Name="addCatMenuItem" Hidden="true" />
+      <Field Name="addNoteToolStripMenuItem" Hidden="true" />
+      <Field Name="allNotesToolStripMenuItem" Hidden="true" />
+      <Field Name="authorMenuItem" Hidden="true" />
+      <Field Name="button1" Hidden="true" />
+      <Field Name="button2" Hidden="true" />
+      <Field Name="checkBox1" Hidden="true" />
+      <Field Name="clasifMenuItem" Hidden="true" />
+      <Field Name="comboBox1" Hidden="true" />
+      <Field Name="comboBox2" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Field Name="createAutorMenuItem" Hidden="true" />
+      <Field Name="createDateMenuItem" Hidden="true" />
+      <Field Name="DeleteNoteToolStripMenuItem" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Field Name="favMenuItem" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Field Name="label1" Hidden="true" />
+      <Field Name="label2" Hidden="true" />
+      <Field Name="listBox1" Hidden="true" />
+      <Field Name="menuStrip1" Hidden="true" />
+      <Field Name="modDateMenuItem" Hidden="true" />
+      <Field Name="notesMenuToolStripMenuItem" Hidden="true" />
+      <Field Name="panel2" Hidden="true" />
+      <Field Name="panel3" Hidden="true" />
+      <Field Name="panel4" Hidden="true" />
+      <Field Name="richTextBox1" Hidden="true" />
+      <Field Name="saveToolStripMenuItem" Hidden="true" />
+      <Field Name="searchMenuItem" Hidden="true" />
+      <Field Name="sortByIdMenuItem" Hidden="true" />
+      <Field Name="sortDownMenuItem" Hidden="true" />
+      <Field Name="sortMenuItem" Hidden="true" />
+      <Field Name="sortUpMenuItem" Hidden="true" />
+      <Field Name="splitContainer1" Hidden="true" />
+      <Field Name="subSortMenuItem" Hidden="true" />
+      <Field Name="textBox1" Hidden="true" />
+      <Field Name="toolStripSeparator1" Hidden="true" />
+      <Field Name="viewMenuItem" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>jTUggAEo7KgMthBUBADMioADCoCYCaAAUUgQWQUAICA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyNotes.ItemCollection">
+    <Position X="5.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAgAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ItemCollection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyNotes.Note">
+    <Position X="2.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAACBAAAAgAAAAAAAAEZAAQACgAEAEIgABBBAAAQAAA=</HashCode>
+      <FileName>Note.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyNotes.Notes">
+    <Position X="4" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ARYAAAAUACAABAAEAAAAAAAAAAEAACAAAAAgYAEAAAY=</HashCode>
+      <FileName>Notes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyNotes.Program">
+    <Position X="2.25" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyNotes.PromptDialog">
+    <Position X="5.75" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAQAAAEAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>PromptDialog.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyNotes.Search">
+    <Position X="5.75" Y="5.5" Width="1.5" />
+    <Members>
+      <Field Name="button1" Hidden="true" />
+      <Field Name="button2" Hidden="true" />
+      <Field Name="checkBox1" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Field Name="label1" Hidden="true" />
+      <Field Name="label3" Hidden="true" />
+      <Field Name="textBox1" Hidden="true" />
+      <Field Name="textBox2" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAACAgABAAAACAEEASABAYQAAAEGAAAAEAAAA=</HashCode>
+      <FileName>Search.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="MyNotes.Item">
+    <Position X="5.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAACAAAAgA=</HashCode>
+      <FileName>ItemCollection.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
